@@ -1,1 +1,1 @@
-https://github.com/cupidonte185/Group5_T1.2103_m0_FirstFashion/settings/pages
+https://cupidonte185.github.io/Group5_T1.2103_m0_FirstFashion/
